@@ -1,11 +1,12 @@
 # RatingR6
 <b>Rating R6 script for [TM] Trophy Manager</b>
 
-After CHU-CHI stopped TM, I took over the script.
+After CHU-CHI stopped TM, I took over the script with the goal to make it a full browser extention module.
+But for now we distribute the script as it was and go from there.
 
 Current verion is: <b>R6.75.0001</b> for Season 75 of Trophy Manager
 
-## NOTICE ##
+# NOTICE 
 I would like to ask to not redistribute the script under my name. You can contribute with send me and PM in-game with ideas.
 ClubID: 3687436
 
@@ -19,5 +20,4 @@ ClubID: 3687436
 7.) Locate the file on the extracted location and open it.</p>
 8.) Tampermonkey will open the file, click install</p>
 </p>
-You are now <b>READY TO GO!</b></p>
-
+You are now READY TO GO!</p>
