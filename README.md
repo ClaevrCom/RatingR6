@@ -19,5 +19,5 @@ ClubID: 3687436
 7.) Locate the file on the extracted location and open it.</p>
 8.) Tampermonkey will open the file, click install</p>
 </p>
-You are now READY TO GO!</p>
+You are now <b>READY TO GO!</b></p>
 
