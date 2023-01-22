@@ -1,5 +1,5 @@
 # RatingR6
-Rating R6 script for [TM] Trophy Manager
+<h1>Rating R6 script for [TM] Trophy Manager</h1>
 
 After CHU-CHI stopped TM, I took over the script.
 
