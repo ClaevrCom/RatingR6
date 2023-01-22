@@ -10,14 +10,14 @@ I would like to ask to not redistribute the script under my name. You can contri
 ClubID: 3687436
 
 # How to install
-1.) Download and install the browser extension Tampermonkey: https://www.tampermonkey.net/
-2.) Download de script (ZIP-File) and extract the files.
-3.) Open the Extension Tampermonkey.
-4.) Select "Create new script".
-5.) Click on the tab Services.
-6.) On the "Import" section select "Select File".
-7.) Locate the file on the extracted location and open it.
-8.) Tampermonkey will open the file, click install
-
-You are now READY TO GO!
+1.) Download and install the browser extension Tampermonkey: https://www.tampermonkey.net/</p>
+2.) Download de script (ZIP-File) and extract the files.</p>
+3.) Open the Extension Tampermonkey.</p>
+4.) Select "Create new script".</p>
+5.) Click on the tab Services.</p>
+6.) On the "Import" section select "Select File".</p>
+7.) Locate the file on the extracted location and open it.</p>
+8.) Tampermonkey will open the file, click install</p>
+</p>
+You are now READY TO GO!</p>
 
